@@ -1,7 +1,7 @@
-import React from 'react';
-import '../styles/Template.scss';
+import React from 'react'
+import '../styles/Template.scss'
 
-function App() {
+function Template() {
   return (
     <React.Fragment className="Template">
       
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default Template;
+export default Template

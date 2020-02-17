@@ -1,5 +1,6 @@
-import React from 'react';
-import '../styles/App.scss';
+import React from 'react'
+import '../styles/App.scss'
+import PlantImage from './PlantImage'
 
 function App() {
   return (
@@ -7,8 +8,9 @@ function App() {
         <h1>
           Soon to become a functional plant simulator.
         </h1>
+        <PlantImage/>
     </div>
   );
 }
 
-export default App;
+export default App
